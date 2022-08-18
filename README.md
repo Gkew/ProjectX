@@ -109,10 +109,9 @@ erDiagram
     }
 ```
 
-_Userstory 015_
-```
-Vi ==knackar kod==
-```
+_Userstory 015_  
+
+Vi knackar `kod`
 
 _Userstory 016_
 ``` mermaid
