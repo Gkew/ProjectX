@@ -110,7 +110,8 @@ erDiagram
 ```
 
 _Userstory 015_
-<mark> Hello we do code </mark>
+The purpose of living is to have a ==healthy, happy==, and a ==cheerful== life.  
+
 
 
 _Userstory 016_
@@ -120,4 +121,3 @@ sequenceDiagram
     Axel-->>Emmi: Abs!
     Emmi-)Axel: Perfekt!
 ```
-
