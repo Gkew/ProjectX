@@ -21,10 +21,13 @@ const house = "This is a house";
 
 ```
 _Userstory 006_
-_Userstory 006_
 ```
 | Name     |      Age      |  Cool |
 |----------|:-------------:|------:|
 | Emmi     |     100       | 100%  |
 | Axel     |     100       | 100%  |
 ```
+
+_Userstory 005_
+[I'm an inline-style link](https://www.google.com)
+
