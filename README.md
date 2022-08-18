@@ -31,3 +31,7 @@ _Userstory 006_
 _Userstory 005_
 [I'm an inline-style link](https://www.google.com)
 
+_Userstory 008_
+```
+:neckbeard:
+```
