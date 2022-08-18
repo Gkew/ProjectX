@@ -20,3 +20,11 @@ _Userstory 004_
 const house = "This is a house";
 
 ```
+_Userstory 006_
+_Userstory 006_
+```
+| Name     |      Age      |  Cool |
+|----------|:-------------:|------:|
+| Emmi     |     100       | 100%  |
+| Axel     |     100       | 100%  |
+```
