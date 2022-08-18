@@ -64,8 +64,7 @@ _Userstory 011_
 > Det här är ett blockquote
 
 _Userstory  013_
-```
- mermaid
+``` mermaid
 classDiagram
     Animal <|-- Duck
     Animal <|-- Fish
@@ -88,6 +87,7 @@ classDiagram
         +run()
     }
 ```
+
 _Userstory 012_
 ``` mermaid
 erDiagram
