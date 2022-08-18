@@ -108,5 +108,16 @@ erDiagram
         float pricePerUnit
     }
 ```
+
 _Userstory 015_
 <mark> Hello we do code </mark>
+
+
+_Userstory 016_
+``` mermaid
+sequenceDiagram
+    Emmi->>Axel: Går det bra med koden?
+    Axel-->>Emmi: Abs!
+    Emmi-)Axel: Perfekt!
+```
+
