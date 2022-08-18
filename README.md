@@ -111,7 +111,7 @@ erDiagram
 
 _Userstory 015_
 ```
-Vi <mark>knackar kod</mark>
+Vi ==knackar kod==
 ```
 
 _Userstory 016_
