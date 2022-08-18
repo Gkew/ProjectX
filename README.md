@@ -10,3 +10,7 @@ _Userstory 002_
 ``` java
 something with  java
 ```
+_Userstory 004_
+``` js
+const house = "This is a house";
+```
