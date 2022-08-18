@@ -31,3 +31,6 @@ _Userstory 006_
 _Userstory 005_
 [I'm an inline-style link](https://www.google.com)
 
+_Userstory 007_
+*This is italic with asterix* and  
+_This is italic with underlines_
