@@ -37,7 +37,7 @@ _Userstory 008_
 :neckbeard:
 
 
-_Userstory 007_
+_Userstory 007_  
 *This is italic with asterix* and  
 _This is italic with underlines_
 
@@ -46,3 +46,14 @@ _This is italic with underlines_
 **This is bold with asterix** and  
 __This is bold with underline__
 
+_Userstory 010_
+```
+1. Emmi
+2. Axel
+3. Lol
+```
+```
+- Emmi
+- Axel
+- Lol
+```
