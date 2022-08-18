@@ -34,3 +34,5 @@ _Userstory 005_
 _Userstory 007_
 *This is italic with asterix* and  
 _This is italic with underlines_
+**This is bold with asterix** and  
+__This is bold with underline__
