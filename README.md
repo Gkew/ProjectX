@@ -110,8 +110,9 @@ erDiagram
 ```
 
 _Userstory 015_
+<mark>
 The purpose of living is to have a ==healthy, happy==, and a ==cheerful== life.  
-
+</mark>
 
 
 _Userstory 016_
