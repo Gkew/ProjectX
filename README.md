@@ -108,3 +108,11 @@ erDiagram
         float pricePerUnit
     }
 ```
+
+_Userstory 016_
+``` mermaid
+sequenceDiagram
+    Emmi->>Axel: Går det bra med koden?
+    Axel-->>Emmi: Abs!
+    Emmi-)Axel: Perfekt!
+```
