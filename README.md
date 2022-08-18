@@ -64,6 +64,7 @@ _Userstory 011_
 > Det här är ett blockquote
 
 _Userstory  013_
+```
  mermaid
 classDiagram
     Animal <|-- Duck
@@ -86,3 +87,24 @@ classDiagram
         +bool is_wild
         +run()
     }
+```
+_Userstory 012_
+``` mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    CUSTOMER {
+        string name
+        string custNumber
+        string sector
+    }
+    ORDER ||--|{ LINE-ITEM : contains
+    ORDER {
+        int orderNumber
+        string deliveryAddress
+    }
+    LINE-ITEM {
+        string productCode
+        int quantity
+        float pricePerUnit
+    }
+```
