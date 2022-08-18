@@ -20,3 +20,5 @@ _Userstory 004_
 const house = "This is a house";
 
 ```
+_Userstory 005_
+[I'm an inline-style link](https://www.google.com)
